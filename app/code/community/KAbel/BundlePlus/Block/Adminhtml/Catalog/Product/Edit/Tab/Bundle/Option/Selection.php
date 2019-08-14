@@ -27,6 +27,7 @@ class KAbel_BundlePlus_Block_Adminhtml_Catalog_Product_Edit_Tab_Bundle_Option_Se
 {
     public function __construct()
     {
+        parent::__construct();
         $this->setTemplate('kabel/bundleplus/product/edit/bundle/option/selection.phtml');
     }
 }
