@@ -11,7 +11,7 @@
  *
  * @category    KAbel
  * @package     KAbel_BundlePlus
- * @copyright   Copyright (c) 2012 Regents of the University of Nebraska (http://www.nebraska.edu/)
+ * @copyright   Copyright (c) 2013 Regents of the University of Nebraska (http://www.nebraska.edu/)
  * @license     http://www1.unl.edu/wdn/wiki/Software_License  BSD 3-Clause License
  */
 
