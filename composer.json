@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/KAbel_BundlePlus",
+    "name": "OpenMageModuleFostering\/KAbel_BundlePlus",
     "type": "magento-module",
     "license": "BSD-3-Clause",
     "homepage": "",
     "description": "Extends the Bundle interfaces for checkbox selections to allow each selection to have a user-defined qty.",
     "authors": [
-    {
-        "name": "Kevin Abel",
-        "email": "kabel2@unl.edu"
-    }
-],
+        {
+            "name": "Kevin Abel",
+            "email": "kabel2@unl.edu"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
